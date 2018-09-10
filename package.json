@@ -1,11 +1,25 @@
 {
   "name": "type-n-speak",
   "version": "1.0.0",
-  "description": "Type-N-Speak it's so fun to create this app",
+  "description": "type n speak",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage":"htttps://salah7eddine.github.io/Type-N-Speak",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
   },
-  "author": "Abousaid",
-  "license": "MIT"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salah7eddine/Type-N-Speak.git"
+  },
+  "author": "SalahEddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salah7eddine/Type-N-Speak/issues"
+  },
+  "homepage": "https://github.com/salah7eddine/Type-N-Speak#readme"
 }
