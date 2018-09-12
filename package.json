@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "type n speak",
   "main": "index.js",
-  "homepage":"htttps://salah7eddine.github.io/Type-N-Speak",
+  "homepage":"htttps://salah7eddine.github.io/SpeedTypingGame",
   "dependencies": {
     "gh-pages": "^1.2.0"
   },
